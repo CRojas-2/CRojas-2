@@ -8,14 +8,16 @@ Hello, I'm Camilo Rojas!
 <hr>
 
 <pre>
-💻 I am mainly a Data Analyst
-📚 I have a Bachelors in Computer Science from the University of Dar Es Salaam
-📝 I have a strong interest in Software Engineering and Design
-🛠️ Currently working on a fintech solution with @PesaLock
-🌱 Learning about efficient designs for scalable systems
-🌟 Main language: Java 😁
-🚩 Interested in Server Side Application development
-😃 I look forward to collaborate on impactful projects
+📊 I am mainly a Data Analyst focused on turning data into strategic decisions
+🎓 Civil Engineer with strong analytical and systems-thinking foundation
+⚙️ Skilled in Python (Pandas, NumPy), Excel, Tableau & Power BI
+📈 Experienced in building KPIs, dashboards & data visualizations
+🧹 Expert in data cleaning, validation & quality control processes
+🤖 Automated reporting workflows, reducing manual work by up to 40%
+📊 Strong background in EDA, A/B testing, clustering & segmentation
+🚀 Improved operational efficiency and data processes by 25–35%
+🧠 Business-oriented mindset: risk analysis & data-driven decision making
+🤝 Clear communicator with experience supporting high-impact decisions
 </pre>
 <hr>
 
@@ -35,6 +37,7 @@ Hello, I'm Camilo Rojas!
 	![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 	![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 	![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+					
 	![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 	
 
