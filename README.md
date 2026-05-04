@@ -1,13 +1,3 @@
-
-
-- 🔭 I’m currently working on being the best Data Analyst
-- 🌱 I´m currently leraning Data Analysis on TripleTen
-- 👯 I’m looking to collaborate on Data analysis projects
-- 💬 Ask me about improving business decision-making
-- 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/camilo-andres-rojas-rojas) 
-, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:camilo35546@gmail.com)
-- ⚡ Fun fact: 
-
 <h1 align="center">
 Hello, I'm Camilo Rojas!
 	<a href="https://github.com/CRojas-2" target="_self">
@@ -34,7 +24,6 @@ Hello, I'm Camilo Rojas!
 <p align="center">
 	<a href="mailto:camilo35546@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/kibwana-miruru-322225232/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://www.instagram.com/slikshotcapture/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 ## 💻 My Tech Stack
