@@ -8,7 +8,7 @@ Hello, I'm Camilo Rojas!
 <hr>
 
 <pre>
-💻 I am mainly a Backend Developer
+💻 I am mainly a Data Analyst
 📚 I have a Bachelors in Computer Science from the University of Dar Es Salaam
 📝 I have a strong interest in Software Engineering and Design
 🛠️ Currently working on a fintech solution with @PesaLock
