@@ -8,7 +8,7 @@
 🧭 About me
 I'm a Data Analyst transitioning from Civil Engineering, based in Bogotá, Colombia. I turn operational and business data into KPIs, interactive dashboards, and clear recommendations that non-technical stakeholders can act on.
 📊 Currently building and maintaining a Power BI dashboard used institution-wide at ARN (Agencia para la Reincorporación y la Normalización), unifying risk, threat, and personal-records data into a single reporting tool
-🎓 Civil Engineer (Universidad Nacional de Colombia) with a systems-thinking foundation, now completing a Data Analyst Certification at TripleTen (est. 2026)
+🎓 Civil Engineer (Universidad Nacional de Colombia) with a systems-thinking foundation, now completing a Data Analyst Certification at TripleTen (2026)
 🧹 Strong background in data cleaning, validation, and quality control on sensitive, high-demand datasets
 📈 Skilled in SQL (PostgreSQL, CTEs) for funnel and cohort analysis, Power BI (DAX, data modeling), Excel (Power Query), and Python (Pandas, NumPy, statsmodels) for EDA, A/B testing, and hypothesis testing
 ⭐ I apply the STAR methodology to structure and communicate results with a focus on measurable impact
